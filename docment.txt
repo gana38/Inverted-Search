@@ -1,0 +1,15 @@
+                                         --------------------INVERTED SEARCH------------------
+step1 : Validate with minimum no of arguments(otherwise return failure with error message).
+step2 : Read and validate file names with proper extection is there or not repeted files not allowed print possible error message and return failure
+step3 : Update the data table using back_up file and remove files if already files are done with create database.
+        1.check if index of hash table is null or not 
+            a.if it is null create main node and sub node add to it.
+            b.if it is not travel until null and add main node and sub node
+step4 : Call function create data base and create hash table for it.
+step5 : Search data using name of word.
+step6 : Display data which is present in table
+step7 : Save the hash table data to back_up file
+step8 : Exit the process.
+
+
+                                     ------------------------completed------------------------
